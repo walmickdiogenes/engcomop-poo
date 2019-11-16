@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Semaforo.iml" filepath="$PROJECT_DIR$/.idea/modules/Semaforo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Semaforo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Semaforo_main.iml" group="Semaforo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Semaforo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Semaforo_test.iml" group="Semaforo" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/main.iml" filepath="$PROJECT_DIR$/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/src/src.iml" filepath="$PROJECT_DIR$/.idea/modules/src/src.iml" group="src" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/src/src_main.iml" filepath="$PROJECT_DIR$/.idea/modules/src/src_main.iml" group="src" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/src/src_test.iml" filepath="$PROJECT_DIR$/.idea/modules/src/src_test.iml" group="src" />
+      <module fileurl="file://$PROJECT_DIR$/src/test/test.iml" filepath="$PROJECT_DIR$/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
